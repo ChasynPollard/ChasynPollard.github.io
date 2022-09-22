@@ -1,0 +1,45 @@
+body {
+  width: 80%;
+ background: purple;
+ 
+}
+
+h2{
+ 
+  color: grey;
+  background-color: yellow;
+  font-family: Times New Roman, bold;
+}
+
+h3 {
+  
+  color: purple;
+  font-family: 'Brush Script MT', cursive;
+  background-color: darkgreen;
+}
+
+p {
+  background: grey;
+}
+
+.para1 {
+ 
+  background-color:black;
+   background-size: 50% 90%;
+  color: white;
+}
+
+main{
+  background-color: #817e7e;
+}
+
+h1 {
+  color: blue;
+  background-color: orange;
+  font-family: 'Brush Script MT';
+}
+
+footer {
+  background-color: #18fb18;
+  font-style: italic;
+}
