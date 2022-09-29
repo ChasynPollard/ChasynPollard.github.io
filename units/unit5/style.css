@@ -92,7 +92,10 @@ ul.b {
   padding: 14px 16px;
   text-decoration: none;
   background: black;
-  padding: 14px 16px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 /* Links */
