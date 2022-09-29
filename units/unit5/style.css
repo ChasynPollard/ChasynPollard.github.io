@@ -1,0 +1,113 @@
+body {
+ 
+
+ 
+   font-family: Times New Roman;
+}
+
+#wrapper {
+   background-color: lightgrey;
+  width:80%;
+  margin: auto;
+  box-shadow: 5px;
+  height: 100%;
+}
+
+.itembox {
+  border: 2px;
+  border-style: solid;
+  height: 90%;
+  padding: 10px;
+ border-radius: 20px;
+ color:#911818;
+  background: tan;
+  box-shadow: 5px 5px black;
+}
+
+
+
+#favr {
+  border: 2px;
+  border-style: dotted;
+  height: 90%;
+  padding: 10px;
+ border-radius: 30px;
+ color:#0d0d0d;
+  background: #beecb1;
+  box-shadow: 5px 5px black;
+
+}
+
+ul.a {list-style-type: circle;}
+
+div {
+  margin: auto;
+  width:90%
+}
+
+h1 {
+text-align: center;
+
+}
+
+h2{
+  text-align:center;
+  font-family: Times New Roman, bold;
+}
+
+h3 {
+  text-align:center;
+
+}
+
+p {
+
+}
+
+
+main{
+
+}
+
+footer {
+ color: blue;
+  font-style: italic;
+}
+
+header {
+  text-align: center;
+}
+/*nav bar*/
+
+
+
+ul.b {
+  
+  width: 90%;
+  font-size: 17px;
+  list-style-type: none;
+  border-radius: 30px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background: black;
+  padding: 14px 16px;
+}
+
+/* Links */
+li a {
+  text-decoration: none;
+  color: white;
+  
+}
+
+#nav ul li {
+  display: inline;
+   border-right: 1px solid #4b4949;
+  
+}
+
+#p {
+  border-left: 1px solid #4b4949;
+}
