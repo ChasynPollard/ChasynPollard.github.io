@@ -1,0 +1,19 @@
+
+
+img{
+  display: none;
+}
+
+#header, #nav, #footer, #sidebar{
+  display: none;
+}
+ #center {
+  display: contents;
+  color:black;
+  background-color: white;
+  text-size: 1.25em
+}
+
+a:after{
+     content: '(' attr(href) ')';
+}
