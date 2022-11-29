@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+table{
+  width:90%;
+  margin: auto;
+}
+
+th, td, table{
+   border-style: solid;
+}
+
+h1{
+  text-align: center;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
