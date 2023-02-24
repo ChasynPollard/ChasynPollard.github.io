@@ -1,0 +1,46 @@
+#header { 
+  color: #000000;
+  border-bottom: 2px solid #000000;
+	text-align: left;
+  background-image: linear-gradient(to bottom right, #8af090, #f4f4e6);
+  padding: 0 20px; 
+  font-size: 19px;
+}
+
+
+#topnav{
+  text-align: left;
+  font-size: 20px;
+  border-width: 2px;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  background-color: #e8ede8;
+ 
+}
+
+#sidenav{
+  padding-top: 50px;
+  clear: both;
+  float: right;
+  margin: 5px;
+  text-align: center;
+  padding-right: 13px;
+
+}
+
+#sidetd{
+  text-align: center;
+  background-color: #c7c7c7;
+  height: 30px;
+  width: 310px;
+
+}
+
+#profile { 
+  float: right;
+  width: 0px; 
+  margin: 5px;
+  padding-right: 15px;
+}
