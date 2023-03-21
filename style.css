@@ -2,12 +2,15 @@
   color: #000000;
   border-bottom: 2px solid #000000;
 	text-align: left;
-  background-image: linear-gradient(to bottom right, #8af090, #f4f4e6);
+  background: linear-gradient(to bottom right, #8af090, #f4f4e6);
   padding: 0 20px; 
   font-size: 19px;
 }
 
-
+body{
+ background: #fcfff5;
+ font-size: 18px;
+}
 #topnav{
   text-align: left;
   font-size: 20px;
