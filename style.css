@@ -12,6 +12,13 @@ body{
  font-size: 19px;
  font-family: "Times New Roman", Times, serif;
 }
+
+p{
+  margin: 20px;
+}
+
+
+
 #topnav{
   text-align: left;
   font-size: 20px;
